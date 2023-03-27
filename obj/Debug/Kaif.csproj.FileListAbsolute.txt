@@ -1,0 +1,24 @@
+E:\Хацкер\C#\CDV_Project\Kaif\bin\Debug\Kaif.exe.config
+E:\Хацкер\C#\CDV_Project\Kaif\bin\Debug\Kaif.exe
+E:\Хацкер\C#\CDV_Project\Kaif\bin\Debug\Kaif.pdb
+E:\Хацкер\C#\CDV_Project\Kaif\obj\Debug\Kaif.csproj.AssemblyReference.cache
+E:\Хацкер\C#\CDV_Project\Kaif\obj\Debug\Kaif.csproj.SuggestedBindingRedirects.cache
+E:\Хацкер\C#\CDV_Project\Kaif\obj\Debug\Kaif.csproj.CoreCompileInputs.cache
+E:\Хацкер\C#\CDV_Project\Kaif\obj\Debug\Kaif.exe
+E:\Хацкер\C#\CDV_Project\Kaif\obj\Debug\Kaif.pdb
+E:\Kaif\bin\Debug\Kaif.exe.config
+E:\Kaif\bin\Debug\Kaif.exe
+E:\Kaif\bin\Debug\Kaif.pdb
+E:\Kaif\obj\Debug\Kaif.csproj.AssemblyReference.cache
+E:\Kaif\obj\Debug\Kaif.csproj.SuggestedBindingRedirects.cache
+E:\Kaif\obj\Debug\Kaif.csproj.CoreCompileInputs.cache
+E:\Kaif\obj\Debug\Kaif.exe
+E:\Kaif\obj\Debug\Kaif.pdb
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\obj\Debug\Kaif.csproj.AssemblyReference.cache
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\obj\Debug\Kaif.csproj.SuggestedBindingRedirects.cache
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\obj\Debug\Kaif.csproj.CoreCompileInputs.cache
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\obj\Debug\Kaif.exe
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\obj\Debug\Kaif.pdb
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\Kaif.exe.config
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\Kaif.exe
+C:\Users\Мария\OneDrive\Рабочий стол\Kaif\Kaif.pdb

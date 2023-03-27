@@ -1,0 +1,8 @@
+E:\Kaif\bin\Release\Kaif.exe.config
+E:\Kaif\bin\Release\Kaif.exe
+E:\Kaif\bin\Release\Kaif.pdb
+E:\Kaif\obj\Release\Kaif.csproj.AssemblyReference.cache
+E:\Kaif\obj\Release\Kaif.csproj.SuggestedBindingRedirects.cache
+E:\Kaif\obj\Release\Kaif.csproj.CoreCompileInputs.cache
+E:\Kaif\obj\Release\Kaif.exe
+E:\Kaif\obj\Release\Kaif.pdb
